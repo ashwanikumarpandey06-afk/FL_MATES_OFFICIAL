@@ -1,14 +1,14 @@
 const DEFAULT_DATA = {
   hero:{eyebrow:"WE ARE", title:"MATES|ESPORTS"},
   teams:[
-    {id:1,name:"MATES LEGENDS",rank:1,image:"assets/team-legends.jpg"},
-    {id:2,name:"MATES WARRIORS",rank:2,image:"assets/team-warriors.jpg"},
-    {id:3,name:"MATES PHOENIX",rank:3,image:"assets/team-phoenix.jpg"},
-    {id:4,name:"MATES HUNTERS",rank:4,image:"assets/team-hunters.jpg"},
-    {id:5,name:"MATES TITANS",rank:5,image:"assets/team-legends.jpg"},
-    {id:6,name:"MATES REBELS",rank:6,image:"assets/team-warriors.jpg"},
-    {id:7,name:"MATES ELITE",rank:7,image:"assets/team-phoenix.jpg"},
-    {id:8,name:"MATES RAVENS",rank:8,image:"assets/team-hunters.jpg"}
+    {id:1,name:"MATES LEGENDS",rank:1,image:"team-legends.jpg"},
+    {id:2,name:"MATES WARRIORS",rank:2,image:"team-warriors.jpg"},
+    {id:3,name:"MATES PHOENIX",rank:3,image:"team-phoenix.jpg"},
+    {id:4,name:"MATES HUNTERS",rank:4,image:"team-hunters.jpg"},
+    {id:5,name:"MATES TITANS",rank:5,image:"team-legends.jpg"},
+    {id:6,name:"MATES REBELS",rank:6,image:"team-warriors.jpg"},
+    {id:7,name:"MATES ELITE",rank:7,image:"team-phoenix.jpg"},
+    {id:8,name:"MATES RAVENS",rank:8,image:"team-hunters.jpg"}
   ],
   matches:[
     {id:1,date:"24 MAY 2024 • 18:00",a:"MATES LEGENDS",b:"NOVA FORCE",status:"upcoming",event:"Free Fire League"},
